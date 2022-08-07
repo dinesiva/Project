@@ -16,6 +16,7 @@ public class Array {
 		
 		for (int i = 0; i < length; i++) {
 			System.out.println(a[i]);
+			System.out.println();
 		}
 		
 	}
